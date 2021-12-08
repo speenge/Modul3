@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "31XWmFLh77cX0ioYi103HtkdYwYNdCQZno1yuFpXY0fMX/5HyNPiJESEexlTJigrNX2CyggsCqjgM9XqHOQlgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ad\\source\\repos\\shutdown\\poweroff\\poweroff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ad\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.PowerShell.5.ReferenceAssemblies 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.PowerShell.5.ReferenceAssemblies",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

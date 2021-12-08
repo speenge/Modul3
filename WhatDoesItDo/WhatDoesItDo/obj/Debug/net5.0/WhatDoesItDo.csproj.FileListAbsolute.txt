@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.exe
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.deps.json
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.runtimeconfig.json
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.dll
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\ref\WhatDoesItDo.dll
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\bin\Debug\net5.0\WhatDoesItDo.pdb
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.AssemblyInfo.cs
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.dll
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\ref\WhatDoesItDo.dll
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.pdb
+C:\Users\Ad\source\repos\WhatDoesItDo\WhatDoesItDo\obj\Debug\net5.0\WhatDoesItDo.genruntimeconfig.cache

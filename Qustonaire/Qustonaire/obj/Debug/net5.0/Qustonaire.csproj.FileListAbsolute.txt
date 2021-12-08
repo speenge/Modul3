@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.exe
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.deps.json
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.runtimeconfig.json
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.dll
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\ref\Qustonaire.dll
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\bin\Debug\net5.0\Qustonaire.pdb
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.AssemblyInfo.cs
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.dll
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\ref\Qustonaire.dll
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.pdb
+C:\Users\Ad\source\repos\Qustonaire\Qustonaire\obj\Debug\net5.0\Qustonaire.genruntimeconfig.cache

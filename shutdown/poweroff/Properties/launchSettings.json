@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "poweroff": {
+      "commandName": "Project",
+      "commandLineArgs": "-a"
+    }
+  }
+}

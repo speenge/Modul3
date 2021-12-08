@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimentionalMadness", "MultiDimentionalMadness\MultiDimentionalMadness.csproj", "{43644072-FB01-4ECD-9C07-5E4226B778FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43644072-FB01-4ECD-9C07-5E4226B778FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43644072-FB01-4ECD-9C07-5E4226B778FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43644072-FB01-4ECD-9C07-5E4226B778FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43644072-FB01-4ECD-9C07-5E4226B778FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16361908-74F4-4180-BFAF-F246814D3246}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.exe
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.deps.json
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.runtimeconfig.json
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.dll
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\ref\Konsoll-AppOppg.dll
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\bin\Debug\net5.0\Konsoll-AppOppg.pdb
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.AssemblyInfo.cs
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.dll
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\ref\Konsoll-AppOppg.dll
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.pdb
+C:\Users\Ad\source\repos\Konsoll-AppOppg\Konsoll-AppOppg\obj\Debug\net5.0\Konsoll-AppOppg.genruntimeconfig.cache

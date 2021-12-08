@@ -1,0 +1,17 @@
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.exe
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.deps.json
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.runtimeconfig.json
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.dll
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\ref\CoffieCounter.dll
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\CoffieCounter.pdb
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.AssemblyInfo.cs
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.dll
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\ref\CoffieCounter.dll
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.pdb
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.genruntimeconfig.cache
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\bin\Debug\net5.0\config.txt
+C:\Users\Ad\source\repos\CoffieCounter\CoffieCounter\obj\Debug\net5.0\CoffieCounter.csproj.AssemblyReference.cache

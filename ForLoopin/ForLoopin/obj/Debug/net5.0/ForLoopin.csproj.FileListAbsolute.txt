@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.exe
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.deps.json
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.runtimeconfig.json
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.dll
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ref\ForLoopin.dll
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\bin\Debug\net5.0\ForLoopin.pdb
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.AssemblyInfo.cs
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.dll
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ref\ForLoopin.dll
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.pdb
+C:\Users\Ad\source\repos\ForLoopin\ForLoopin\obj\Debug\net5.0\ForLoopin.genruntimeconfig.cache

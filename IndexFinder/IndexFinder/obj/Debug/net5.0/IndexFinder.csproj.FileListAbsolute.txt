@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.exe
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.deps.json
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.runtimeconfig.json
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.dll
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\ref\IndexFinder.dll
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\bin\Debug\net5.0\IndexFinder.pdb
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.AssemblyInfo.cs
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.dll
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\ref\IndexFinder.dll
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.pdb
+C:\Users\Ad\source\repos\IndexFinder\IndexFinder\obj\Debug\net5.0\IndexFinder.genruntimeconfig.cache

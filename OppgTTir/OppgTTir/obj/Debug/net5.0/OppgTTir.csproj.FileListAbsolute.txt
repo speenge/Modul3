@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.exe
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.deps.json
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.runtimeconfig.json
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.dll
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\ref\OppgTTir.dll
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\bin\Debug\net5.0\OppgTTir.pdb
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.AssemblyInfo.cs
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.dll
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\ref\OppgTTir.dll
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.pdb
+C:\Users\Ad\source\repos\OppgTTir\OppgTTir\obj\Debug\net5.0\OppgTTir.genruntimeconfig.cache

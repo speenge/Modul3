@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.AssemblyInfo.cs
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.exe
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.deps.json
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.runtimeconfig.json
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.dll
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\ref\PurePuzzles.dll
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\bin\Debug\net5.0\PurePuzzles.pdb
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.dll
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\ref\PurePuzzles.dll
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.pdb
+C:\Users\Ad\source\repos\PurePuzzles\PurePuzzles\obj\Debug\net5.0\PurePuzzles.genruntimeconfig.cache

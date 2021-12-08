@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.exe
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.deps.json
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.runtimeconfig.json
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.dll
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\ref\PrintArgsTest.dll
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\bin\Debug\net5.0\PrintArgsTest.pdb
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.AssemblyInfo.cs
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.dll
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\ref\PrintArgsTest.dll
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.pdb
+C:\Users\Ad\source\repos\PrintArgsTest\PrintArgsTest\obj\Debug\net5.0\PrintArgsTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Ad\source\repos\dud\dud\bin\Debug\dud.exe.config
+C:\Users\Ad\source\repos\dud\dud\bin\Debug\dud.exe
+C:\Users\Ad\source\repos\dud\dud\bin\Debug\dud.pdb
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.Form1.resources
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.Properties.Resources.resources
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.csproj.GenerateResource.cache
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.exe
+C:\Users\Ad\source\repos\dud\dud\obj\Debug\dud.pdb

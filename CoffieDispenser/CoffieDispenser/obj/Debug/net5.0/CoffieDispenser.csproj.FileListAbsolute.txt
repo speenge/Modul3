@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.exe
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.deps.json
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.runtimeconfig.json
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.dll
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\ref\CoffieDispenser.dll
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\bin\Debug\net5.0\CoffieDispenser.pdb
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.AssemblyInfo.cs
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.dll
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\ref\CoffieDispenser.dll
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.pdb
+C:\Users\Ad\source\repos\CoffieDispenser\CoffieDispenser\obj\Debug\net5.0\CoffieDispenser.genruntimeconfig.cache

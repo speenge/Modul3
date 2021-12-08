@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "returverdiOppg", "returverdiOppg\returverdiOppg.csproj", "{3E898116-8AD1-4AAD-AFD9-1DC20F88539D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E898116-8AD1-4AAD-AFD9-1DC20F88539D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E898116-8AD1-4AAD-AFD9-1DC20F88539D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E898116-8AD1-4AAD-AFD9-1DC20F88539D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E898116-8AD1-4AAD-AFD9-1DC20F88539D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FD04BE-8999-4700-BD31-55480DB6DE39}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjQTBK/yUfu8zwbrWnu9P6XCUutRMUybQ8tUYBY6vWTOsieGVTOID1lk+Aqg7CG3/IhaJa4dqN5CqPToOZuObA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ad\\source\\repos\\SQLiteTool\\SQLiteTool\\SQLiteTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ad\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Ad\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115\\stub.system.data.sqlite.core.netstandard.1.0.115.nupkg.sha512",
+    "C:\\Users\\Ad\\.nuget\\packages\\system.data.sqlite.core\\1.0.115\\system.data.sqlite.core.1.0.115.nupkg.sha512"
+  ],
+  "logs": []
+}

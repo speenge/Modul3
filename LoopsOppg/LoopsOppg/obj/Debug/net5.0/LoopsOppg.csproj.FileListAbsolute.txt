@@ -1,0 +1,15 @@
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.exe
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.deps.json
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.runtimeconfig.json
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.dll
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\ref\LoopsOppg.dll
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\bin\Debug\net5.0\LoopsOppg.pdb
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.AssemblyInfo.cs
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.dll
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\ref\LoopsOppg.dll
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.pdb
+C:\Users\Ad\source\repos\LoopsOppg\LoopsOppg\obj\Debug\net5.0\LoopsOppg.genruntimeconfig.cache

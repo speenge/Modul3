@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.exe
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.deps.json
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.runtimeconfig.json
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.dll
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\ref\DrawShape.dll
+C:\Users\Ad\source\repos\DrawShape\DrawShape\bin\Debug\net5.0\DrawShape.pdb
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.AssemblyInfo.cs
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.dll
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\ref\DrawShape.dll
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.pdb
+C:\Users\Ad\source\repos\DrawShape\DrawShape\obj\Debug\net5.0\DrawShape.genruntimeconfig.cache

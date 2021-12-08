@@ -1,0 +1,17 @@
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.AssemblyInfo.cs
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.exe
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.deps.json
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.runtimeconfig.json
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.dll
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\ref\poweroff.dll
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\poweroff.pdb
+C:\Users\Ad\source\repos\shutdown\poweroff\bin\Debug\net5.0\System.Management.Automation.dll
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.dll
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\ref\poweroff.dll
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.pdb
+C:\Users\Ad\source\repos\shutdown\poweroff\obj\Debug\net5.0\poweroff.genruntimeconfig.cache

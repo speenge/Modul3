@@ -1,0 +1,15 @@
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.exe
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.deps.json
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.runtimeconfig.json
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.dll
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\ref\VerdiOgReferanseTypeOppg.dll
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\bin\Debug\net5.0\VerdiOgReferanseTypeOppg.pdb
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.AssemblyInfo.cs
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.dll
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\ref\VerdiOgReferanseTypeOppg.dll
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.pdb
+C:\Users\Ad\source\repos\VerdiOgReferanseTypeOppg\VerdiOgReferanseTypeOppg\obj\Debug\net5.0\VerdiOgReferanseTypeOppg.genruntimeconfig.cache
