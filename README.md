@@ -6,4 +6,4 @@
 a coffee logger I started making, since I drink too much coffee, so having it logged might make me stop drinking too much
 ---
 #### Roadmap
- [ ] update index(high priority)
+ - [ ] update index(high priority)
